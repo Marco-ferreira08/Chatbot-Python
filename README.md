@@ -33,7 +33,7 @@ Antes de iniciar, certifique-se de ter instalado:
 
 Acesse a plataforma, crie seu projeto e gere uma chave da Gemini API.
 
-3. Crie um arquivo .env na raiz do projeto e adicione sua chave:
+3. **Crie um arquivo .env na raiz do projeto e adicione sua chave:**
 # .env
 GEMINI_API_KEY=sua_chave_api_aqui
 

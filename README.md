@@ -18,8 +18,8 @@ Este chatbot foi desenvolvido para ser seu assistente pessoal, utilizando a API 
 Antes de iniciar, certifique-se de ter instalado:
 
 - [Git](https://git-scm.com/)
-- [Python 3.x](https://www.python.org/downloads/)
-- Dependências do Python (listadas no arquivo `requirements.txt`)
+- [Python 3](https://www.python.org/downloads/)
+- Dependências do Python
 
 ## Configuração
 
